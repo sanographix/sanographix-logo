@@ -8,7 +8,7 @@ Logos for [SANOGRAPHIX.NET](http://www.sanographix.net/) and [SANOGRAPHIX.COM](h
 
 You can use these logotypes for personal use. Enjoy! :hamster:
 
-##  The Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. 
+##  CC BY-NC-ND 4.0 License. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 
